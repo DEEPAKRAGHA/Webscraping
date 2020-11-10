@@ -41,7 +41,7 @@ if button == 'OK':
     for c,b in a:
         print(c+":"+b)
 
-print('Hi')
+print('Hi')+print('Demo')
 print('Hi2')
 print('Hi4')
 
