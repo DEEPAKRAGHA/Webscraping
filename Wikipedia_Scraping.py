@@ -42,6 +42,7 @@ if button == 'OK':
         print(c+":"+b)
 
 print('Hi')
+print('Hi2')
 
 
 
